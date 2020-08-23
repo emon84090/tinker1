@@ -1,0 +1,147 @@
+.navbar{
+
+background: #F7F7F7;
+
+
+}
+
+.nav-link{
+
+	color: black !important;
+	text-transform: uppercase;
+}
+.nav-item {
+        padding: 23px 27px;
+
+}
+.navbar-toggler-icon{
+
+
+	
+	background: black;
+}
+
+#home-page{
+
+
+	background: url('banner_bg.jpg');
+	background-size: cover;
+	min-height: 700px;
+	
+}
+
+.caption{
+
+	margin-top: 200px;
+}
+#home-page h1{
+
+
+	font-weight: bold;
+}
+
+#emon-2{
+
+
+	background: url('about-bg.jpg');
+	min-height: 600px;
+	background-attachment: fixed;
+}
+.emo img{
+
+border: 5px solid white;
+padding: 25px;
+border-radius: 50%;
+background: #F7C552;
+
+}
+
+.emo a{
+
+	padding: 10px 30px;
+	background: #33C1CF;
+	color: white;
+	text-decoration: none;
+	border-radius: 20px;
+}
+
+#emon-3{
+
+	background: #33C1CF;
+}
+#emon-3 h1{
+
+	margin-top: 100px;
+}
+#emon-3 p{
+
+
+	width: 400px;
+	margin-left: 30px;
+}
+#emon-4{
+
+	background: #F7C552 !important;
+}
+
+
+#blog{
+
+	background: url('blog-bg.jpg');
+	background-size: cover;
+	min-height: 600px;
+	background-attachment: fixed;
+}
+
+.emon-5{
+
+	background: RGBA(18, 22, 25, 0.37);
+margin-left: 35px;
+}
+
+#contact{
+
+	background: #596065;
+}
+
+#contact a{
+
+padding: 10px 30px;
+background: #33C1CF;
+text-decoration: none;
+border-radius: 30px;
+color: white;
+
+
+
+}
+
+#footer{
+
+
+	background: #000;
+}
+
+.icon i{
+
+	padding: 10px;
+	margin-right: 9px;
+	border: 1px solid white;
+	border-radius: 50%;
+	color: black;
+	background: white;
+	transition: 0.5s;
+
+}
+
+.icon i:hover{
+
+
+	background: #F7C552;
+}
+
+.fa-bars{
+
+	background: black;
+	font-size: 40px;
+}
